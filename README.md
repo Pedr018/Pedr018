@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @Pedr018
-- 👀 I’m interested in programação
-- 🌱 I’m currently learning html,css e javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 8199991339
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Olá! 👋 Eu sou o Pedro
 
-<!---
-Pedr018/Pedr018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Estudante de Desenvolvimento de Sistemas pelo SENAI  
+💻 Aprendendo: HTML, CSS e JavaScript  
+🚀 Buscando minha primeira oportunidade de estágio na área de Tecnologia da Informação (TI)  
+
+## 📌 Sobre mim:
+
+- Tenho grande interesse em programação e tecnologia
+- Gosto de aprender coisas novas e me desafiar com projetos
+- Atualmente estou desenvolvendo pequenos projetos para praticar
+
+## 🌱 Tecnologias em aprendizado:
+
+- HTML5
+- CSS3
+- Lógica de Programação
+- Banco de Dados (SQL)
+
+## 📂 Meus Projetos:
+
+👉 Confira meus repositórios públicos para ver meus códigos e projetos!
+
+## 📫 Como falar comigo:
+
+- ✉️ Email: nascimentoPedro440@gmail.com
+- 💼 [Meu LinkedIn](https://www.linkedin.com/in/pedro-nascimento-204a782b1/) *(Quando terminar seu LinkedIn, pode colocar o link)*
+
+---
+
