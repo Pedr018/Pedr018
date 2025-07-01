@@ -2,7 +2,7 @@
 
 🎓 Estudante de Desenvolvimento de Sistemas pelo SENAI  
 💻 Aprendendo: HTML, CSS e JavaScript  
-🚀 Buscando minha primeira oportunidade de estágio na área de Tecnologia da Informação (TI)  
+🚀 Buscando minha primeira oportunidade de estágio em Desenvolvimento de Software . 
 
 ## 📌 Sobre mim:
 
