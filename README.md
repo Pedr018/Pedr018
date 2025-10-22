@@ -24,7 +24,7 @@
 ## 📫 Como falar comigo:
 
 - ✉️ Email: nascimentoPedro440@gmail.com
-- 💼 Meu LinkedIn: https://www.linkedin.com/in/pedro-nascimento-204a782b1/
+
 
 ---
 
