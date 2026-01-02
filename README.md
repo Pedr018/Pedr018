@@ -1,7 +1,7 @@
 # Olá! 👋 Eu sou o Pedro
 
 🎓 Estudante de Desenvolvimento de Sistemas pelo SENAI  
-💻 Aprendendo: HTML, CSS e JavaScript  
+💻 Aprendendo: Python, Javascript e SQLite  
 🚀 Buscando minha primeira oportunidade de estágio em Desenvolvimento de Software . 
 
 ## 📌 Sobre mim:
@@ -12,8 +12,8 @@
 
 ## 🌱 Tecnologias em aprendizado:
 
-- HTML5
-- CSS3
+- Python
+- JS
 - Lógica de Programação
 - Banco de Dados (SQL)
 
